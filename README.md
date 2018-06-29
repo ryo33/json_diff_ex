@@ -1,1 +1,1 @@
-# MOVED TO [GITLAB](https://github.com/ryo33/json_diff_ex)
+# MOVED TO [GITLAB](https://gitlab.com/ryo33/json_diff_ex)
